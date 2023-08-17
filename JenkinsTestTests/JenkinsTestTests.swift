@@ -21,6 +21,7 @@ final class JenkinsTestTests: XCTestCase {
     func testExample() throws {
         XCTAssertTrue(1+1==2)
         XCTAssertTrue(1+2==3)
+        XCTAssertTrue(1+3==4)
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
         // Any test you write for XCTest can be annotated as throws and async.
