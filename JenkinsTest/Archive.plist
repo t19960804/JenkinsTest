@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Archive.plist
+   JenkinsTest
+
+   Created by t19960804 on 8/18/23.
+   Copyright (c) 2023 ___ORGANIZATIONNAME___. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>method</key>
+        <string>development</string>
+        <key>teamID</key>
+        <string>Cheng Sian Li</string>
+        <key>signingStyle</key>
+        <string>automatic</string>
+    </dict>
+</plist>
