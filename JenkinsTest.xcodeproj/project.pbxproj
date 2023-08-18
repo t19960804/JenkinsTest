@@ -76,6 +76,7 @@
 		0B82DDA52A8DE6A900AD5153 = {
 			isa = PBXGroup;
 			children = (
+				0B2E83E42A8F0EAE00C8B798 /* Archive.plist */,
 				0B82DDB02A8DE6A900AD5153 /* JenkinsTest */,
 				0B82DDC12A8DE6AE00AD5153 /* JenkinsTestTests */,
 				0B82DDCB2A8DE6AE00AD5153 /* JenkinsTestUITests */,
@@ -100,7 +101,6 @@
 				0B82DDB32A8DE6A900AD5153 /* ContentView.swift */,
 				0B82DDB52A8DE6AD00AD5153 /* Assets.xcassets */,
 				0B82DDB72A8DE6AD00AD5153 /* Preview Content */,
-				0B2E83E42A8F0EAE00C8B798 /* Archive.plist */,
 			);
 			path = JenkinsTest;
 			sourceTree = "<group>";
